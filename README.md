@@ -2,6 +2,14 @@
 
 Prescripto is a modern, full-stack doctor appointment booking web application. It includes a user-facing platform, an admin/doctor management portal, and a secure backend API.
 
+## Live Deployments
+
+You can access the live version of the deployed services here:
+
+*   **Frontend Patient Web App:** [https://prescripto-frontend-9sos.onrender.com](https://prescripto-frontend-9sos.onrender.com)
+*   **Admin & Doctor Dashboard:** [https://prescripto-admin-kbaj.onrender.com](https://prescripto-admin-kbaj.onrender.com)
+*   **Backend Server API:** [https://prescripto-nzba.onrender.com](https://prescripto-nzba.onrender.com)
+
 ## Project Structure
 
 The project is structured as a monorepos/multi-package workspace:
